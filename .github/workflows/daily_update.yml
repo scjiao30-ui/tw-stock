@@ -1,0 +1,32 @@
+name: Daily Taiwan Stock Screener Auto-Update
+
+on:
+  schedule:
+    # 台灣時間 (UTC+8) 週一至週五每天早上 09:10 自動執行 (對應 UTC 時間 01:10)
+    - cron: '10 1 * * 1-5'
+  workflow_dispatch: # 支援在 GitHub 網頁上一鍵手動立即觸發測試
+
+permissions:
+  contents: write
+
+jobs:
+  update-stock-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 1. 檢出專案原始碼 (Checkout Repository)
+        uses: actions/checkout@v4
+
+      - name: 2. 設定 Python 3.11 環境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 3. 執行台股每日盤後篩選與歷史收盤監控腳本
+        run: python3 update_stocks.py
+
+      - name: 4. 自動將最新 stocks_data.json 寫回 GitHub 並觸發網頁更新
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions Stock Bot"
+          git add stocks_data.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Taiwan stock data $(date +'%Y-%m-%d')" && git push)
