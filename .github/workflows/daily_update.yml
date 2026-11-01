@@ -2,9 +2,11 @@ name: Daily Taiwan Stock Screener Auto-Update
 
 on:
   schedule:
-    # 台灣時間 (UTC+8) 週一至週五每天早上 09:10 自動執行 (對應 UTC 時間 01:10)
-    - cron: '10 1 * * 1-5'
-  workflow_dispatch: # 支援在 GitHub 網頁上一鍵手動立即觸發測試
+    # 每天早上 09:10 (台灣時間 UTC+8，對應 UTC 01:10) 自動抓取前一交易日完整結果
+    - cron: '10 1 * * *'
+    # 週一至週五下午 15:35 (台灣時間 UTC+8，對應 UTC 07:35) 盤後資料出爐自動更新
+    - cron: '35 7 * * 1-5'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -13,20 +15,20 @@ jobs:
   update-stock-data:
     runs-on: ubuntu-latest
     steps:
-      - name: 1. 檢出專案原始碼 (Checkout Repository)
+      - name: 1. Checkout Repository
         uses: actions/checkout@v4
 
-      - name: 2. 設定 Python 3.11 環境
+      - name: 2. Setup Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: 3. 執行台股每日盤後篩選與歷史收盤監控腳本
+      - name: 3. Run Full-Market Daily Screener & Tracker
         run: python3 update_stocks.py
 
-      - name: 4. 自動將最新 stocks_data.json 寫回 GitHub 並觸發網頁更新
+      - name: 4. Commit and Push Updated Data
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions Stock Bot"
-          git add stocks_data.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Taiwan stock data $(date +'%Y-%m-%d')" && git push)
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update Taiwan stock screener $(date +'%Y-%m-%d %H:%M')" && git push)
