@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-06 15:53:30",
+  "updatedAt": "2026-11-06 23:21:04",
   "tradingDate": "2026-11-06",
   "tradingDateFormatted": "2026/11/06",
-  "totalScanned": 1097,
+  "totalScanned": 1972,
   "top30CutoffTurnover": 4.41,
   "strictPassCount": 0,
   "trackedCount": 5,
@@ -16,7 +16,7 @@
       "industry": "資訊服務業",
       "theme": "資訊服務業強勢股｜最新單月營收年增 +68.8%",
       "openPrice": 53.1,
-      "highPrice": 64.4,
+      "highPrice": 64.6,
       "lowPrice": 53.1,
       "price": 60.2,
       "prevClose": 59.0,
@@ -206,7 +206,7 @@
         {
           "date": "2026-11-06",
           "open": 53.1,
-          "high": 64.4,
+          "high": 64.6,
           "low": 53.1,
           "close": 60.2,
           "volume": 43590,
@@ -1059,13 +1059,13 @@
       "changePercent": -2.1,
       "volume": 20909,
       "prevVolume": 7660,
-      "turnoverRate": 34.85,
+      "turnoverRate": 0.0,
       "turnoverRank": 25,
-      "marketTurnoverRank": "週轉率 34.85%",
+      "marketTurnoverRank": "週轉率 0.0%",
       "isAth": false,
       "athPrice": 167.0,
       "athNote": "2026-11-06 收盤 163.5 元（昨收 167.0 元），歷史最高收盤 167.0 元",
-      "sepRevYoY": 80.0,
+      "sepRevYoY": 146.61,
       "scores": {
         "momentum": 78,
         "turnover": 90,
@@ -1076,7 +1076,7 @@
       "themeDesc": "天品（6199）為歷史選股監控標的，2026-11-06 最新收盤價 163.5 元（單日 -3.50 元 / -2.10%），當日成交量 20,909 張（前日 7,660 張）。",
       "catalystPoints": [
         "2026-11-06 開盤 167.0、最高 169.5、最低 156.0、收盤 163.5 元（-2.10%）。",
-        "當日成交量 20,909 張、前日成交量 7,660 張，週轉率 34.85%。",
+        "當日成交量 20,909 張、前日成交量 7,660 張，週轉率 0.0%。",
         "自入選基準價 153.0 元以來，累積漲跌幅為 +6.86%。"
       ],
       "links": {
@@ -1473,13 +1473,13 @@
       "changePercent": -2.36,
       "volume": 9320,
       "prevVolume": 12278,
-      "turnoverRate": 15.53,
+      "turnoverRate": 0.0,
       "turnoverRank": 25,
-      "marketTurnoverRank": "週轉率 15.53%",
+      "marketTurnoverRank": "週轉率 0.0%",
       "isAth": false,
       "athPrice": 99.0,
       "athNote": "2026-11-06 收盤 78.6 元（昨收 80.5 元），歷史最高收盤 99.0 元",
-      "sepRevYoY": 80.0,
+      "sepRevYoY": 39.11,
       "scores": {
         "momentum": 78,
         "turnover": 90,
@@ -1490,7 +1490,7 @@
       "themeDesc": "濱川（1569）為歷史選股監控標的，2026-11-06 最新收盤價 78.6 元（單日 -1.90 元 / -2.36%），當日成交量 9,320 張（前日 12,278 張）。",
       "catalystPoints": [
         "2026-11-06 開盤 72.5、最高 83.4、最低 72.5、收盤 78.6 元（-2.36%）。",
-        "當日成交量 9,320 張、前日成交量 12,278 張，週轉率 15.53%。",
+        "當日成交量 9,320 張、前日成交量 12,278 張，週轉率 0.0%。",
         "自入選基準價 94.8 元以來，累積漲跌幅為 -17.09%。"
       ],
       "links": {
@@ -1680,13 +1680,13 @@
       "changePercent": -6.55,
       "volume": 3537,
       "prevVolume": 3486,
-      "turnoverRate": 5.9,
+      "turnoverRate": 0.0,
       "turnoverRank": 25,
-      "marketTurnoverRank": "週轉率 5.9%",
+      "marketTurnoverRank": "週轉率 0.0%",
       "isAth": false,
       "athPrice": 263.5,
       "athNote": "2026-11-06 收盤 192.5 元（昨收 206.0 元），歷史最高收盤 263.5 元",
-      "sepRevYoY": 80.0,
+      "sepRevYoY": 283.62,
       "scores": {
         "momentum": 78,
         "turnover": 90,
@@ -1697,7 +1697,7 @@
       "themeDesc": "陽程（3498）為歷史選股監控標的，2026-11-06 最新收盤價 192.5 元（單日 -13.50 元 / -6.55%），當日成交量 3,537 張（前日 3,486 張）。",
       "catalystPoints": [
         "2026-11-06 開盤 185.5、最高 201.0、最低 185.5、收盤 192.5 元（-6.55%）。",
-        "當日成交量 3,537 張、前日成交量 3,486 張，週轉率 5.9%。",
+        "當日成交量 3,537 張、前日成交量 3,486 張，週轉率 0.0%。",
         "自入選基準價 252.0 元以來，累積漲跌幅為 -23.61%。"
       ],
       "links": {
