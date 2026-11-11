@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-11 15:43:26",
+  "updatedAt": "2026-11-11 23:35:00",
   "tradingDate": "2026-11-11",
   "tradingDateFormatted": "2026/11/11",
-  "totalScanned": 1965,
+  "totalScanned": 1969,
   "top30CutoffTurnover": 5.13,
   "strictPassCount": 1,
   "trackedCount": 6,
@@ -2513,7 +2513,7 @@
       "currentPrice": 76.7,
       "todayChange": 6.9,
       "todayChangePct": 9.89,
-      "status": "🚀 今日新入選創歷史新高",
+      "status": "🚀 續創歷史新高",
       "dailyLog": [
         {
           "day": "前日(基準)",
