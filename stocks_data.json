@@ -1,48 +1,48 @@
 {
-  "updatedAt": "2026-11-19 16:44:42",
-  "tradingDate": "2026-11-19",
-  "tradingDateFormatted": "2026/11/19",
+  "updatedAt": "2026-11-20 00:45:03",
+  "tradingDate": "2026-11-18",
+  "tradingDateFormatted": "2026/11/18",
   "totalScanned": 1974,
   "top30CutoffTurnover": 5.65,
-  "strictPassCount": 0,
+  "strictPassCount": 1,
   "trackedCount": 10,
   "stocksData": [
     {
       "id": "9933",
       "name": "中鼎",
       "market": "上市",
-      "strictPass": false,
-      "statusLabel": "前期入選監控 (🛡️ 守穩基準價之上)",
+      "strictPass": true,
+      "statusLabel": "嚴格4項全過 (全市場週轉#19)",
       "industry": "其他",
       "theme": "其他強勢股｜最新單月營收年增 +53.9%",
-      "openPrice": 58.0,
-      "highPrice": 58.4,
-      "lowPrice": 55.1,
-      "price": 56.6,
-      "prevClose": 57.5,
-      "change": -0.9,
-      "changePercent": -1.57,
-      "volume": 28367,
-      "prevVolume": 71001,
+      "openPrice": 56.8,
+      "highPrice": 59.3,
+      "lowPrice": 55.3,
+      "price": 57.5,
+      "prevClose": 56.6,
+      "change": 0.9,
+      "changePercent": 1.59,
+      "volume": 71173,
+      "prevVolume": 53217,
       "turnoverRate": 7.4,
-      "turnoverRank": 25,
-      "marketTurnoverRank": "週轉率 7.4%",
-      "isAth": false,
+      "turnoverRank": 19,
+      "marketTurnoverRank": "全市場週轉率第 19 名 (7.4%)",
+      "isAth": true,
       "athPrice": 57.5,
-      "athNote": "2026-11-19 收盤 56.6 元（昨收 57.5 元），歷史最高收盤 57.5 元",
+      "athNote": "✅ 嚴格 4 項全過！收盤 57.5 元突破歷史前高 (56.6 元)，前日量 53,217 張、當日量 71,173 張",
       "sepRevYoY": 53.86,
       "scores": {
-        "momentum": 78,
-        "turnover": 90,
+        "momentum": 98,
+        "turnover": 81,
         "trend": 95,
-        "volume": 90,
-        "fundamental": 92
+        "volume": 95,
+        "fundamental": 94
       },
-      "themeDesc": "中鼎（9933）為歷史選股監控標的，2026-11-19 最新收盤價 56.6 元（單日 -0.90 元 / -1.57%），當日成交量 28,367 張（前日 71,001 張）。",
+      "themeDesc": "【公開資訊觀測站＆實盤查核】中鼎（9933）隸屬其他，最新單月營收年增率為 +53.86%（2025年之簽約案於2026年底逐漸進入執行高峰期。）。於 2026-11-18 成交量達 71,173 張（前一交易日 53,217 張），全市場週轉率高達 7.4% 位居全市場第 19 名。",
       "catalystPoints": [
-        "2026-11-19 開盤 58.0、最高 58.4、最低 55.1、收盤 56.6 元（-1.57%）。",
-        "當日成交量 28,367 張、前日成交量 71,001 張，週轉率 7.4%。",
-        "自入選基準價 56.6 元以來，累積漲跌幅為 +0.00%。"
+        "2026-11-18 收盤 57.50 元（▲+1.59%），10年歷史最高收盤基準為 57.50 元。",
+        "當日成交量 71,173 張、前一交易日成交量 53,217 張，週轉率 7.4%（全市場第 19 名）。",
+        "最新公布單月營收年增率 +53.86%，2025年之簽約案於2026年底逐漸進入執行高峰期。。"
       ],
       "links": {
         "goodinfo": "https://goodinfo.tw/tw/ShowK_Chart.asp?STOCK_ID=9933&CHT_CAT=DATE",
@@ -51,6 +51,14 @@
         "tpex": "https://pchome.megatime.com.tw/stock/sid9933.html"
       },
       "history": [
+        {
+          "date": "2026-10-21",
+          "open": 43.3,
+          "high": 43.75,
+          "low": 43.0,
+          "close": 43.7,
+          "volume": 4025
+        },
         {
           "date": "2026-10-22",
           "open": 44.1,
@@ -201,15 +209,835 @@
           "high": 59.3,
           "low": 55.3,
           "close": 57.5,
-          "volume": 71001
+          "volume": 71001,
+          "isAth": true
+        }
+      ]
+    },
+    {
+      "id": "4977",
+      "name": "眾達-KY",
+      "market": "上市",
+      "strictPass": false,
+      "statusLabel": "前30週轉熱門觀察 (週轉#1)",
+      "industry": "通信網路業",
+      "theme": "通信網路業強勢股｜最新單月營收年增 +117.4%",
+      "openPrice": 187.0,
+      "highPrice": 197.0,
+      "lowPrice": 175.0,
+      "price": 197.0,
+      "prevClose": 179.5,
+      "change": 17.5,
+      "changePercent": 9.75,
+      "volume": 31331,
+      "prevVolume": 26102,
+      "turnoverRate": 34.43,
+      "turnoverRank": 1,
+      "marketTurnoverRank": "全市場週轉率第 1 名 (34.43%)",
+      "isAth": false,
+      "athPrice": 270.5,
+      "athNote": "❌ 淘汰：收盤 197.0 元未突破歷史最高收盤價 (270.5 元)",
+      "sepRevYoY": 117.36,
+      "scores": {
+        "momentum": 82,
+        "turnover": 99,
+        "trend": 95,
+        "volume": 95,
+        "fundamental": 94
+      },
+      "themeDesc": "【公開資訊觀測站＆實盤查核】眾達-KY（4977）隸屬通信網路業，最新單月營收年增率為 +117.36%（因納入品固集團營收）。於 2026-11-18 成交量達 31,331 張（前一交易日 26,102 張），全市場週轉率高達 34.43% 位居全市場第 1 名。",
+      "catalystPoints": [
+        "2026-11-18 收盤 197.00 元（▲+9.75%），10年歷史最高收盤基準為 270.50 元。",
+        "當日成交量 31,331 張、前一交易日成交量 26,102 張，週轉率 34.43%（全市場第 1 名）。",
+        "最新公布單月營收年增率 +117.36%，因納入品固集團營收。"
+      ],
+      "links": {
+        "goodinfo": "https://goodinfo.tw/tw/ShowK_Chart.asp?STOCK_ID=4977&CHT_CAT=DATE",
+        "cnyes": "https://www.cnyes.com/twstock/4977",
+        "wantgoo": "https://www.wantgoo.com/stock/4977/technical-chart",
+        "tpex": "https://pchome.megatime.com.tw/stock/sid4977.html"
+      },
+      "history": [
+        {
+          "date": "2026-10-21",
+          "open": 175.5,
+          "high": 183.0,
+          "low": 174.5,
+          "close": 180.5,
+          "volume": 3992
         },
         {
-          "date": "2026-11-19",
-          "open": 58.0,
-          "high": 58.4,
-          "low": 55.1,
-          "close": 56.6,
-          "volume": 28367,
+          "date": "2026-10-22",
+          "open": 182.0,
+          "high": 182.0,
+          "low": 165.0,
+          "close": 165.0,
+          "volume": 3992
+        },
+        {
+          "date": "2026-10-23",
+          "open": 165.0,
+          "high": 165.0,
+          "low": 165.0,
+          "close": 165.0,
+          "volume": 0
+        },
+        {
+          "date": "2026-10-27",
+          "open": 170.0,
+          "high": 173.0,
+          "low": 165.0,
+          "close": 170.0,
+          "volume": 2546
+        },
+        {
+          "date": "2026-10-28",
+          "open": 177.0,
+          "high": 187.0,
+          "low": 175.5,
+          "close": 187.0,
+          "volume": 7101
+        },
+        {
+          "date": "2026-10-29",
+          "open": 194.0,
+          "high": 198.0,
+          "low": 181.5,
+          "close": 183.5,
+          "volume": 12873
+        },
+        {
+          "date": "2026-10-30",
+          "open": 178.0,
+          "high": 178.5,
+          "low": 166.0,
+          "close": 173.0,
+          "volume": 4251
+        },
+        {
+          "date": "2026-11-02",
+          "open": 166.0,
+          "high": 189.0,
+          "low": 166.0,
+          "close": 183.0,
+          "volume": 7518
+        },
+        {
+          "date": "2026-11-03",
+          "open": 176.0,
+          "high": 179.0,
+          "low": 166.5,
+          "close": 167.0,
+          "volume": 5272
+        },
+        {
+          "date": "2026-11-04",
+          "open": 172.0,
+          "high": 183.5,
+          "low": 162.0,
+          "close": 183.5,
+          "volume": 8821
+        },
+        {
+          "date": "2026-11-05",
+          "open": 177.5,
+          "high": 192.5,
+          "low": 170.5,
+          "close": 175.5,
+          "volume": 23590
+        },
+        {
+          "date": "2026-11-06",
+          "open": 159.0,
+          "high": 170.0,
+          "low": 158.5,
+          "close": 165.0,
+          "volume": 22570
+        },
+        {
+          "date": "2026-11-09",
+          "open": 171.0,
+          "high": 181.0,
+          "low": 169.0,
+          "close": 178.0,
+          "volume": 6723
+        },
+        {
+          "date": "2026-11-10",
+          "open": 180.5,
+          "high": 192.0,
+          "low": 177.5,
+          "close": 187.0,
+          "volume": 14708
+        },
+        {
+          "date": "2026-11-11",
+          "open": 183.0,
+          "high": 186.0,
+          "low": 175.5,
+          "close": 186.0,
+          "volume": 9719
+        },
+        {
+          "date": "2026-11-12",
+          "open": 189.5,
+          "high": 192.5,
+          "low": 174.0,
+          "close": 179.5,
+          "volume": 9660
+        },
+        {
+          "date": "2026-11-13",
+          "open": 183.0,
+          "high": 192.5,
+          "low": 182.0,
+          "close": 188.5,
+          "volume": 11699
+        },
+        {
+          "date": "2026-11-16",
+          "open": 188.0,
+          "high": 188.0,
+          "low": 170.0,
+          "close": 173.0,
+          "volume": 6933
+        },
+        {
+          "date": "2026-11-17",
+          "open": 166.0,
+          "high": 190.0,
+          "low": 163.5,
+          "close": 179.5,
+          "volume": 26102
+        },
+        {
+          "date": "2026-11-18",
+          "open": 187.0,
+          "high": 197.0,
+          "low": 175.0,
+          "close": 197.0,
+          "volume": 31002,
+          "isAth": false
+        }
+      ]
+    },
+    {
+      "id": "4916",
+      "name": "事欣科",
+      "market": "上市",
+      "strictPass": false,
+      "statusLabel": "前30週轉熱門觀察 (週轉#3)",
+      "industry": "電腦及週邊設備業",
+      "theme": "電腦及週邊設備業強勢股｜最新單月營收年增 +112.4%",
+      "openPrice": 104.0,
+      "highPrice": 111.0,
+      "lowPrice": 100.5,
+      "price": 111.0,
+      "prevClose": 101.0,
+      "change": 10.0,
+      "changePercent": 9.9,
+      "volume": 29662,
+      "prevVolume": 18611,
+      "turnoverRate": 23.91,
+      "turnoverRank": 3,
+      "marketTurnoverRank": "全市場週轉率第 3 名 (23.91%)",
+      "isAth": false,
+      "athPrice": 124.5,
+      "athNote": "❌ 淘汰：收盤 111.0 元未突破歷史最高收盤價 (124.5 元)",
+      "sepRevYoY": 112.43,
+      "scores": {
+        "momentum": 82,
+        "turnover": 97,
+        "trend": 95,
+        "volume": 95,
+        "fundamental": 94
+      },
+      "themeDesc": "【公開資訊觀測站＆實盤查核】事欣科（4916）隸屬電腦及週邊設備業，最新單月營收年增率為 +112.43%（受惠於國防、航太及通訊客戶需求強勁，低軌道衛星產品持續拉貨，本月營收變動達50%以上。）。於 2026-11-18 成交量達 29,662 張（前一交易日 18,611 張），全市場週轉率高達 23.91% 位居全市場第 3 名。",
+      "catalystPoints": [
+        "2026-11-18 收盤 111.00 元（▲+9.90%），10年歷史最高收盤基準為 124.50 元。",
+        "當日成交量 29,662 張、前一交易日成交量 18,611 張，週轉率 23.91%（全市場第 3 名）。",
+        "最新公布單月營收年增率 +112.43%，受惠於國防、航太及通訊客戶需求強勁，低軌道衛星產品持續拉貨，本月營收變動達50%以上。。"
+      ],
+      "links": {
+        "goodinfo": "https://goodinfo.tw/tw/ShowK_Chart.asp?STOCK_ID=4916&CHT_CAT=DATE",
+        "cnyes": "https://www.cnyes.com/twstock/4916",
+        "wantgoo": "https://www.wantgoo.com/stock/4916/technical-chart",
+        "tpex": "https://pchome.megatime.com.tw/stock/sid4916.html"
+      },
+      "history": [
+        {
+          "date": "2026-10-21",
+          "open": 103.5,
+          "high": 104.5,
+          "low": 102.0,
+          "close": 103.5,
+          "volume": 2095
+        },
+        {
+          "date": "2026-10-22",
+          "open": 104.5,
+          "high": 105.0,
+          "low": 99.6,
+          "close": 99.6,
+          "volume": 2391
+        },
+        {
+          "date": "2026-10-23",
+          "open": 99.6,
+          "high": 99.6,
+          "low": 99.6,
+          "close": 99.6,
+          "volume": 0
+        },
+        {
+          "date": "2026-10-27",
+          "open": 100.5,
+          "high": 101.0,
+          "low": 99.4,
+          "close": 100.5,
+          "volume": 1441
+        },
+        {
+          "date": "2026-10-28",
+          "open": 102.0,
+          "high": 105.0,
+          "low": 101.0,
+          "close": 103.5,
+          "volume": 2375
+        },
+        {
+          "date": "2026-10-29",
+          "open": 104.0,
+          "high": 109.5,
+          "low": 103.0,
+          "close": 104.0,
+          "volume": 12046
+        },
+        {
+          "date": "2026-10-30",
+          "open": 102.0,
+          "high": 103.5,
+          "low": 97.9,
+          "close": 100.0,
+          "volume": 4212
+        },
+        {
+          "date": "2026-11-02",
+          "open": 97.8,
+          "high": 104.5,
+          "low": 96.5,
+          "close": 102.5,
+          "volume": 3296
+        },
+        {
+          "date": "2026-11-03",
+          "open": 101.0,
+          "high": 103.0,
+          "low": 95.8,
+          "close": 96.6,
+          "volume": 2876
+        },
+        {
+          "date": "2026-11-04",
+          "open": 97.6,
+          "high": 98.6,
+          "low": 91.1,
+          "close": 97.7,
+          "volume": 3242
+        },
+        {
+          "date": "2026-11-05",
+          "open": 95.8,
+          "high": 96.4,
+          "low": 88.6,
+          "close": 89.2,
+          "volume": 3517
+        },
+        {
+          "date": "2026-11-06",
+          "open": 80.3,
+          "high": 84.4,
+          "low": 80.3,
+          "close": 83.0,
+          "volume": 3269
+        },
+        {
+          "date": "2026-11-09",
+          "open": 85.3,
+          "high": 91.3,
+          "low": 85.3,
+          "close": 91.3,
+          "volume": 1254
+        },
+        {
+          "date": "2026-11-10",
+          "open": 98.0,
+          "high": 99.9,
+          "low": 94.6,
+          "close": 97.5,
+          "volume": 3429
+        },
+        {
+          "date": "2026-11-11",
+          "open": 98.4,
+          "high": 103.5,
+          "low": 97.4,
+          "close": 103.5,
+          "volume": 4086
+        },
+        {
+          "date": "2026-11-12",
+          "open": 103.5,
+          "high": 109.5,
+          "low": 102.0,
+          "close": 102.5,
+          "volume": 12127
+        },
+        {
+          "date": "2026-11-13",
+          "open": 107.0,
+          "high": 112.5,
+          "low": 105.0,
+          "close": 112.5,
+          "volume": 22819
+        },
+        {
+          "date": "2026-11-16",
+          "open": 117.0,
+          "high": 121.0,
+          "low": 103.5,
+          "close": 104.5,
+          "volume": 29430
+        },
+        {
+          "date": "2026-11-17",
+          "open": 102.0,
+          "high": 107.5,
+          "low": 96.7,
+          "close": 101.0,
+          "volume": 18611
+        },
+        {
+          "date": "2026-11-18",
+          "open": 104.0,
+          "high": 111.0,
+          "low": 100.5,
+          "close": 111.0,
+          "volume": 29525,
+          "isAth": false
+        }
+      ]
+    },
+    {
+      "id": "2355",
+      "name": "敬鵬",
+      "market": "上市",
+      "strictPass": false,
+      "statusLabel": "前30週轉熱門觀察 (週轉#5)",
+      "industry": "電子零組件業",
+      "theme": "電子零組件業強勢股｜最新單月營收年增 +33.0%",
+      "openPrice": 58.3,
+      "highPrice": 60.6,
+      "lowPrice": 53.1,
+      "price": 58.6,
+      "prevClose": 56.5,
+      "change": 2.1,
+      "changePercent": 3.72,
+      "volume": 60364,
+      "prevVolume": 39507,
+      "turnoverRate": 15.19,
+      "turnoverRank": 5,
+      "marketTurnoverRank": "全市場週轉率第 5 名 (15.19%)",
+      "isAth": false,
+      "athPrice": 67.0,
+      "athNote": "❌ 淘汰：收盤 58.6 元未突破歷史最高收盤價 (67.0 元)",
+      "sepRevYoY": 33.02,
+      "scores": {
+        "momentum": 82,
+        "turnover": 95,
+        "trend": 95,
+        "volume": 95,
+        "fundamental": 94
+      },
+      "themeDesc": "【公開資訊觀測站＆實盤查核】敬鵬（2355）隸屬電子零組件業，最新單月營收年增率為 +33.02%（所屬電子零組件業，受惠市場主流趨勢與高週轉資金聚焦）。於 2026-11-18 成交量達 60,364 張（前一交易日 39,507 張），全市場週轉率高達 15.19% 位居全市場第 5 名。",
+      "catalystPoints": [
+        "2026-11-18 收盤 58.60 元（▲+3.72%），10年歷史最高收盤基準為 67.00 元。",
+        "當日成交量 60,364 張、前一交易日成交量 39,507 張，週轉率 15.19%（全市場第 5 名）。",
+        "最新公布單月營收年增率 +33.02%，所屬電子零組件業，受惠市場主流趨勢與高週轉資金聚焦。"
+      ],
+      "links": {
+        "goodinfo": "https://goodinfo.tw/tw/ShowK_Chart.asp?STOCK_ID=2355&CHT_CAT=DATE",
+        "cnyes": "https://www.cnyes.com/twstock/2355",
+        "wantgoo": "https://www.wantgoo.com/stock/2355/technical-chart",
+        "tpex": "https://pchome.megatime.com.tw/stock/sid2355.html"
+      },
+      "history": [
+        {
+          "date": "2026-10-21",
+          "open": 53.9,
+          "high": 54.2,
+          "low": 51.6,
+          "close": 52.0,
+          "volume": 7587
+        },
+        {
+          "date": "2026-10-22",
+          "open": 52.3,
+          "high": 53.5,
+          "low": 50.6,
+          "close": 50.7,
+          "volume": 5080
+        },
+        {
+          "date": "2026-10-23",
+          "open": 50.7,
+          "high": 50.7,
+          "low": 50.7,
+          "close": 50.7,
+          "volume": 0
+        },
+        {
+          "date": "2026-10-27",
+          "open": 51.0,
+          "high": 51.7,
+          "low": 48.9,
+          "close": 49.55,
+          "volume": 9043
+        },
+        {
+          "date": "2026-10-28",
+          "open": 50.5,
+          "high": 54.5,
+          "low": 50.4,
+          "close": 54.5,
+          "volume": 9524
+        },
+        {
+          "date": "2026-10-29",
+          "open": 55.7,
+          "high": 56.3,
+          "low": 51.4,
+          "close": 52.5,
+          "volume": 23706
+        },
+        {
+          "date": "2026-10-30",
+          "open": 51.5,
+          "high": 51.8,
+          "low": 49.0,
+          "close": 51.0,
+          "volume": 10134
+        },
+        {
+          "date": "2026-11-02",
+          "open": 50.3,
+          "high": 51.8,
+          "low": 49.9,
+          "close": 51.2,
+          "volume": 6058
+        },
+        {
+          "date": "2026-11-03",
+          "open": 50.0,
+          "high": 50.9,
+          "low": 48.2,
+          "close": 48.4,
+          "volume": 6478
+        },
+        {
+          "date": "2026-11-04",
+          "open": 48.9,
+          "high": 49.9,
+          "low": 46.6,
+          "close": 49.4,
+          "volume": 7389
+        },
+        {
+          "date": "2026-11-05",
+          "open": 49.0,
+          "high": 50.9,
+          "low": 47.85,
+          "close": 48.05,
+          "volume": 18491
+        },
+        {
+          "date": "2026-11-06",
+          "open": 43.4,
+          "high": 48.4,
+          "low": 43.35,
+          "close": 47.25,
+          "volume": 14124
+        },
+        {
+          "date": "2026-11-09",
+          "open": 48.4,
+          "high": 51.9,
+          "low": 48.0,
+          "close": 50.2,
+          "volume": 8149
+        },
+        {
+          "date": "2026-11-10",
+          "open": 51.0,
+          "high": 54.4,
+          "low": 51.0,
+          "close": 52.5,
+          "volume": 14269
+        },
+        {
+          "date": "2026-11-11",
+          "open": 52.7,
+          "high": 55.5,
+          "low": 51.2,
+          "close": 55.2,
+          "volume": 20725
+        },
+        {
+          "date": "2026-11-12",
+          "open": 60.7,
+          "high": 60.7,
+          "low": 58.7,
+          "close": 60.7,
+          "volume": 38711
+        },
+        {
+          "date": "2026-11-13",
+          "open": 61.0,
+          "high": 66.7,
+          "low": 60.0,
+          "close": 65.9,
+          "volume": 103437
+        },
+        {
+          "date": "2026-11-16",
+          "open": 65.9,
+          "high": 66.4,
+          "low": 60.1,
+          "close": 60.3,
+          "volume": 58331
+        },
+        {
+          "date": "2026-11-17",
+          "open": 58.8,
+          "high": 60.2,
+          "low": 55.7,
+          "close": 56.5,
+          "volume": 39507
+        },
+        {
+          "date": "2026-11-18",
+          "open": 58.3,
+          "high": 60.6,
+          "low": 53.1,
+          "close": 58.6,
+          "volume": 60217,
+          "isAth": false
+        }
+      ]
+    },
+    {
+      "id": "3189",
+      "name": "景碩",
+      "market": "上市",
+      "strictPass": false,
+      "statusLabel": "前30週轉熱門觀察 (週轉#6)",
+      "industry": "半導體業",
+      "theme": "半導體業強勢股｜最新單月營收年增 +49.0%",
+      "openPrice": 596.0,
+      "highPrice": 596.0,
+      "lowPrice": 530.0,
+      "price": 579.0,
+      "prevClose": 542.0,
+      "change": 37.0,
+      "changePercent": 6.83,
+      "volume": 79453,
+      "prevVolume": 13038,
+      "turnoverRate": 15.08,
+      "turnoverRank": 6,
+      "marketTurnoverRank": "全市場週轉率第 6 名 (15.08%)",
+      "isAth": false,
+      "athPrice": 1100.0,
+      "athNote": "❌ 淘汰：收盤 579.0 元未突破歷史最高收盤價 (1100.0 元)",
+      "sepRevYoY": 49.05,
+      "scores": {
+        "momentum": 82,
+        "turnover": 94,
+        "trend": 95,
+        "volume": 95,
+        "fundamental": 94
+      },
+      "themeDesc": "【公開資訊觀測站＆實盤查核】景碩（3189）隸屬半導體業，最新單月營收年增率為 +49.05%（所屬半導體業，受惠市場主流趨勢與高週轉資金聚焦）。於 2026-11-18 成交量達 79,453 張（前一交易日 13,038 張），全市場週轉率高達 15.08% 位居全市場第 6 名。",
+      "catalystPoints": [
+        "2026-11-18 收盤 579.00 元（▲+6.83%），10年歷史最高收盤基準為 1100.00 元。",
+        "當日成交量 79,453 張、前一交易日成交量 13,038 張，週轉率 15.08%（全市場第 6 名）。",
+        "最新公布單月營收年增率 +49.05%，所屬半導體業，受惠市場主流趨勢與高週轉資金聚焦。"
+      ],
+      "links": {
+        "goodinfo": "https://goodinfo.tw/tw/ShowK_Chart.asp?STOCK_ID=3189&CHT_CAT=DATE",
+        "cnyes": "https://www.cnyes.com/twstock/3189",
+        "wantgoo": "https://www.wantgoo.com/stock/3189/technical-chart",
+        "tpex": "https://pchome.megatime.com.tw/stock/sid3189.html"
+      },
+      "history": [
+        {
+          "date": "2026-10-21",
+          "open": 995.0,
+          "high": 1035.0,
+          "low": 981.0,
+          "close": 1010.0,
+          "volume": 20984
+        },
+        {
+          "date": "2026-10-22",
+          "open": 1025.0,
+          "high": 1065.0,
+          "low": 976.0,
+          "close": 986.0,
+          "volume": 19286
+        },
+        {
+          "date": "2026-10-23",
+          "open": 986.0,
+          "high": 986.0,
+          "low": 986.0,
+          "close": 986.0,
+          "volume": 0
+        },
+        {
+          "date": "2026-10-27",
+          "open": 1025.0,
+          "high": 1055.0,
+          "low": 928.0,
+          "close": 941.0,
+          "volume": 19176
+        },
+        {
+          "date": "2026-10-28",
+          "open": 989.0,
+          "high": 1035.0,
+          "low": 940.0,
+          "close": 1035.0,
+          "volume": 18008
+        },
+        {
+          "date": "2026-10-29",
+          "open": 1000.0,
+          "high": 1020.0,
+          "low": 947.0,
+          "close": 959.0,
+          "volume": 17624
+        },
+        {
+          "date": "2026-10-30",
+          "open": 886.0,
+          "high": 946.0,
+          "low": 886.0,
+          "close": 932.0,
+          "volume": 15268
+        },
+        {
+          "date": "2026-11-02",
+          "open": 900.0,
+          "high": 928.0,
+          "low": 879.0,
+          "close": 910.0,
+          "volume": 17019
+        },
+        {
+          "date": "2026-11-03",
+          "open": 888.0,
+          "high": 901.0,
+          "low": 819.0,
+          "close": 819.0,
+          "volume": 17536
+        },
+        {
+          "date": "2026-11-04",
+          "open": 830.0,
+          "high": 836.0,
+          "low": 754.0,
+          "close": 822.0,
+          "volume": 20293
+        },
+        {
+          "date": "2026-11-05",
+          "open": 776.0,
+          "high": 787.0,
+          "low": 740.0,
+          "close": 740.0,
+          "volume": 17545
+        },
+        {
+          "date": "2026-11-06",
+          "open": 666.0,
+          "high": 704.0,
+          "low": 666.0,
+          "close": 671.0,
+          "volume": 15119
+        },
+        {
+          "date": "2026-11-09",
+          "open": 676.0,
+          "high": 718.0,
+          "low": 666.0,
+          "close": 690.0,
+          "volume": 44559
+        },
+        {
+          "date": "2026-11-10",
+          "open": 712.0,
+          "high": 752.0,
+          "low": 709.0,
+          "close": 745.0,
+          "volume": 8205
+        },
+        {
+          "date": "2026-11-11",
+          "open": 747.0,
+          "high": 750.0,
+          "low": 688.0,
+          "close": 741.0,
+          "volume": 12065
+        },
+        {
+          "date": "2026-11-12",
+          "open": 722.0,
+          "high": 745.0,
+          "low": 667.0,
+          "close": 667.0,
+          "volume": 8502
+        },
+        {
+          "date": "2026-11-13",
+          "open": 688.0,
+          "high": 712.0,
+          "low": 645.0,
+          "close": 668.0,
+          "volume": 7950
+        },
+        {
+          "date": "2026-11-16",
+          "open": 655.0,
+          "high": 655.0,
+          "low": 602.0,
+          "close": 602.0,
+          "volume": 3105
+        },
+        {
+          "date": "2026-11-17",
+          "open": 542.0,
+          "high": 553.0,
+          "low": 542.0,
+          "close": 542.0,
+          "volume": 13038
+        },
+        {
+          "date": "2026-11-18",
+          "open": 596.0,
+          "high": 596.0,
+          "low": 530.0,
+          "close": 579.0,
+          "volume": 78651,
           "isAth": false
         }
       ]
@@ -222,21 +1050,21 @@
       "statusLabel": "前期入選監控 (⚠️ 跌破基準價監控中)",
       "industry": "資訊服務業",
       "theme": "資訊服務業強勢股｜最新單月營收年增 +20.0%",
-      "openPrice": 66.5,
-      "highPrice": 71.0,
-      "lowPrice": 62.5,
-      "price": 62.9,
-      "prevClose": 66.2,
-      "change": -3.3,
-      "changePercent": -4.98,
-      "volume": 72071,
-      "prevVolume": 21240,
+      "openPrice": 70.4,
+      "highPrice": 75.7,
+      "lowPrice": 66.2,
+      "price": 66.2,
+      "prevClose": 73.5,
+      "change": -7.3,
+      "changePercent": -9.93,
+      "volume": 21240,
+      "prevVolume": 17685,
       "turnoverRate": 30.5,
       "turnoverRank": 25,
       "marketTurnoverRank": "週轉率 30.5%",
       "isAth": false,
       "athPrice": 81.6,
-      "athNote": "2026-11-19 收盤 62.9 元（昨收 66.2 元），歷史最高收盤 81.6 元",
+      "athNote": "2026-11-18 收盤 66.2 元（昨收 73.5 元），歷史最高收盤 81.6 元",
       "sepRevYoY": 20.0,
       "scores": {
         "momentum": 78,
@@ -245,11 +1073,11 @@
         "volume": 90,
         "fundamental": 92
       },
-      "themeDesc": "華經（2468）為歷史選股監控標的，2026-11-19 最新收盤價 62.9 元（單日 -3.30 元 / -4.98%），當日成交量 72,071 張（前日 21,240 張）。",
+      "themeDesc": "華經（2468）為歷史選股監控標的，2026-11-18 最新收盤價 66.2 元（單日 -7.30 元 / -9.93%），當日成交量 21,240 張（前日 17,685 張）。",
       "catalystPoints": [
-        "2026-11-19 開盤 66.5、最高 71.0、最低 62.5、收盤 62.9 元（-4.98%）。",
-        "當日成交量 72,071 張、前日成交量 21,240 張，週轉率 30.5%。",
-        "自入選基準價 74.2 元以來，累積漲跌幅為 -15.23%。"
+        "2026-11-18 開盤 70.4、最高 75.7、最低 66.2、收盤 66.2 元（-9.93%）。",
+        "當日成交量 21,240 張、前日成交量 17,685 張，週轉率 30.5%。",
+        "自入選基準價 74.2 元以來，累積漲跌幅為 -10.78%。"
       ],
       "links": {
         "goodinfo": "https://goodinfo.tw/tw/ShowK_Chart.asp?STOCK_ID=2468&CHT_CAT=DATE",
@@ -258,6 +1086,14 @@
         "tpex": "https://pchome.megatime.com.tw/stock/sid2468.html"
       },
       "history": [
+        {
+          "date": "2026-10-21",
+          "open": 49.5,
+          "high": 51.7,
+          "low": 48.5,
+          "close": 50.0,
+          "volume": 6982
+        },
         {
           "date": "2026-10-22",
           "open": 51.4,
@@ -408,15 +1244,7 @@
           "high": 75.7,
           "low": 66.2,
           "close": 66.2,
-          "volume": 21240
-        },
-        {
-          "date": "2026-11-19",
-          "open": 66.5,
-          "high": 71.0,
-          "low": 62.5,
-          "close": 62.9,
-          "volume": 72071,
+          "volume": 21240,
           "isAth": false
         }
       ]
@@ -426,37 +1254,37 @@
       "name": "競國",
       "market": "上市",
       "strictPass": false,
-      "statusLabel": "前期入選監控 (⚠️ 跌破基準價監控中)",
+      "statusLabel": "前期入選監控 (🚀 續創歷史新高)",
       "industry": "電子零組件業",
       "theme": "電子零組件業強勢股｜最新單月營收年增 +86.7%",
-      "openPrice": 42.6,
-      "highPrice": 42.6,
-      "lowPrice": 38.25,
-      "price": 38.25,
-      "prevClose": 42.5,
-      "change": -4.25,
-      "changePercent": -10.0,
-      "volume": 2868,
-      "prevVolume": 4271,
+      "openPrice": 43.1,
+      "highPrice": 43.6,
+      "lowPrice": 39.7,
+      "price": 42.5,
+      "prevClose": 41.45,
+      "change": 1.05,
+      "changePercent": 2.53,
+      "volume": 4271,
+      "prevVolume": 5745,
       "turnoverRate": 3.97,
       "turnoverRank": 25,
       "marketTurnoverRank": "週轉率 3.97%",
-      "isAth": false,
+      "isAth": true,
       "athPrice": 42.5,
-      "athNote": "2026-11-19 收盤 38.25 元（昨收 42.5 元），歷史最高收盤 42.5 元",
+      "athNote": "2026-11-18 收盤 42.5 元（昨收 41.45 元），歷史最高收盤 42.5 元",
       "sepRevYoY": 86.67,
       "scores": {
-        "momentum": 78,
+        "momentum": 96,
         "turnover": 90,
         "trend": 95,
         "volume": 90,
         "fundamental": 92
       },
-      "themeDesc": "競國（6108）為歷史選股監控標的，2026-11-19 最新收盤價 38.25 元（單日 -4.25 元 / -10.00%），當日成交量 2,868 張（前日 4,271 張）。",
+      "themeDesc": "競國（6108）為歷史選股監控標的，2026-11-18 最新收盤價 42.5 元（單日 +1.05 元 / +2.53%），當日成交量 4,271 張（前日 5,745 張）。",
       "catalystPoints": [
-        "2026-11-19 開盤 42.6、最高 42.6、最低 38.25、收盤 38.25 元（-10.00%）。",
-        "當日成交量 2,868 張、前日成交量 4,271 張，週轉率 3.97%。",
-        "自入選基準價 39.3 元以來，累積漲跌幅為 -2.67%。"
+        "2026-11-18 開盤 43.1、最高 43.6、最低 39.7、收盤 42.5 元（+2.53%）。",
+        "當日成交量 4,271 張、前日成交量 5,745 張，週轉率 3.97%。",
+        "自入選基準價 39.3 元以來，累積漲跌幅為 +8.14%。"
       ],
       "links": {
         "goodinfo": "https://goodinfo.tw/tw/ShowK_Chart.asp?STOCK_ID=6108&CHT_CAT=DATE",
@@ -465,6 +1293,14 @@
         "tpex": "https://pchome.megatime.com.tw/stock/sid6108.html"
       },
       "history": [
+        {
+          "date": "2026-10-21",
+          "open": 33.2,
+          "high": 35.95,
+          "low": 32.35,
+          "close": 33.0,
+          "volume": 12373
+        },
         {
           "date": "2026-10-22",
           "open": 33.2,
@@ -615,16 +1451,8 @@
           "high": 43.6,
           "low": 39.7,
           "close": 42.5,
-          "volume": 4271
-        },
-        {
-          "date": "2026-11-19",
-          "open": 42.6,
-          "high": 42.6,
-          "low": 38.25,
-          "close": 38.25,
-          "volume": 2868,
-          "isAth": false
+          "volume": 4271,
+          "isAth": true
         }
       ]
     },
@@ -636,21 +1464,21 @@
       "statusLabel": "前期入選監控 (⚠️ 跌破基準價監控中)",
       "industry": "資訊服務業",
       "theme": "資訊服務業強勢股｜最新單月營收年增 +5.3%",
-      "openPrice": 60.6,
-      "highPrice": 62.8,
-      "lowPrice": 57.1,
-      "price": 57.1,
-      "prevClose": 63.4,
-      "change": -6.3,
+      "openPrice": 64.0,
+      "highPrice": 66.0,
+      "lowPrice": 63.4,
+      "price": 63.4,
+      "prevClose": 70.4,
+      "change": -7.0,
       "changePercent": -9.94,
-      "volume": 13899,
-      "prevVolume": 4095,
+      "volume": 4095,
+      "prevVolume": 2266,
       "turnoverRate": 8.7,
       "turnoverRank": 25,
       "marketTurnoverRank": "週轉率 8.7%",
       "isAth": false,
       "athPrice": 78.2,
-      "athNote": "2026-11-19 收盤 57.1 元（昨收 63.4 元），歷史最高收盤 78.2 元",
+      "athNote": "2026-11-18 收盤 63.4 元（昨收 70.4 元），歷史最高收盤 78.2 元",
       "sepRevYoY": 5.31,
       "scores": {
         "momentum": 78,
@@ -659,11 +1487,11 @@
         "volume": 90,
         "fundamental": 92
       },
-      "themeDesc": "資通（2471）為歷史選股監控標的，2026-11-19 最新收盤價 57.1 元（單日 -6.30 元 / -9.94%），當日成交量 13,899 張（前日 4,095 張）。",
+      "themeDesc": "資通（2471）為歷史選股監控標的，2026-11-18 最新收盤價 63.4 元（單日 -7.00 元 / -9.94%），當日成交量 4,095 張（前日 2,266 張）。",
       "catalystPoints": [
-        "2026-11-19 開盤 60.6、最高 62.8、最低 57.1、收盤 57.1 元（-9.94%）。",
-        "當日成交量 13,899 張、前日成交量 4,095 張，週轉率 8.7%。",
-        "自入選基準價 64.7 元以來，累積漲跌幅為 -11.75%。"
+        "2026-11-18 開盤 64.0、最高 66.0、最低 63.4、收盤 63.4 元（-9.94%）。",
+        "當日成交量 4,095 張、前日成交量 2,266 張，週轉率 8.7%。",
+        "自入選基準價 64.7 元以來，累積漲跌幅為 -2.01%。"
       ],
       "links": {
         "goodinfo": "https://goodinfo.tw/tw/ShowK_Chart.asp?STOCK_ID=2471&CHT_CAT=DATE",
@@ -672,6 +1500,14 @@
         "tpex": "https://pchome.megatime.com.tw/stock/sid2471.html"
       },
       "history": [
+        {
+          "date": "2026-10-21",
+          "open": 49.9,
+          "high": 50.4,
+          "low": 49.9,
+          "close": 49.95,
+          "volume": 53
+        },
         {
           "date": "2026-10-22",
           "open": 50.5,
@@ -822,15 +1658,7 @@
           "high": 66.0,
           "low": 63.4,
           "close": 63.4,
-          "volume": 4095
-        },
-        {
-          "date": "2026-11-19",
-          "open": 60.6,
-          "high": 62.8,
-          "low": 57.1,
-          "close": 57.1,
-          "volume": 13899,
+          "volume": 4095,
           "isAth": false
         }
       ]
@@ -843,21 +1671,21 @@
       "statusLabel": "前期入選監控 (⚠️ 跌破基準價監控中)",
       "industry": "玻璃陶瓷",
       "theme": "玻璃陶瓷強勢股｜最新單月營收年增 +34.1%",
-      "openPrice": 64.7,
-      "highPrice": 65.3,
-      "lowPrice": 58.7,
-      "price": 58.7,
-      "prevClose": 65.2,
-      "change": -6.5,
-      "changePercent": -9.97,
-      "volume": 121061,
-      "prevVolume": 193725,
+      "openPrice": 72.0,
+      "highPrice": 72.2,
+      "lowPrice": 62.1,
+      "price": 65.2,
+      "prevClose": 69.0,
+      "change": -3.8,
+      "changePercent": -5.51,
+      "volume": 193725,
+      "prevVolume": 152877,
       "turnoverRate": 6.69,
       "turnoverRank": 25,
       "marketTurnoverRank": "週轉率 6.69%",
       "isAth": false,
       "athPrice": 85.1,
-      "athNote": "2026-11-19 收盤 58.7 元（昨收 65.2 元），歷史最高收盤 85.1 元",
+      "athNote": "2026-11-18 收盤 65.2 元（昨收 69.0 元），歷史最高收盤 85.1 元",
       "sepRevYoY": 56.49,
       "scores": {
         "momentum": 78,
@@ -866,11 +1694,11 @@
         "volume": 90,
         "fundamental": 92
       },
-      "themeDesc": "台玻（1802）為歷史選股監控標的，2026-11-19 最新收盤價 58.7 元（單日 -6.50 元 / -9.97%），當日成交量 121,061 張（前日 193,725 張）。",
+      "themeDesc": "台玻（1802）為歷史選股監控標的，2026-11-18 最新收盤價 65.2 元（單日 -3.80 元 / -5.51%），當日成交量 193,725 張（前日 152,877 張）。",
       "catalystPoints": [
-        "2026-11-19 開盤 64.7、最高 65.3、最低 58.7、收盤 58.7 元（-9.97%）。",
-        "當日成交量 121,061 張、前日成交量 193,725 張，週轉率 6.69%。",
-        "自入選基準價 69.8 元以來，累積漲跌幅為 -15.90%。"
+        "2026-11-18 開盤 72.0、最高 72.2、最低 62.1、收盤 65.2 元（-5.51%）。",
+        "當日成交量 193,725 張、前日成交量 152,877 張，週轉率 6.69%。",
+        "自入選基準價 69.8 元以來，累積漲跌幅為 -6.59%。"
       ],
       "links": {
         "goodinfo": "https://goodinfo.tw/tw/ShowK_Chart.asp?STOCK_ID=1802&CHT_CAT=DATE",
@@ -879,6 +1707,14 @@
         "tpex": "https://pchome.megatime.com.tw/stock/sid1802.html"
       },
       "history": [
+        {
+          "date": "2026-10-21",
+          "open": 68.4,
+          "high": 69.6,
+          "low": 65.6,
+          "close": 67.2,
+          "volume": 146390
+        },
         {
           "date": "2026-10-22",
           "open": 67.4,
@@ -1029,15 +1865,7 @@
           "high": 72.2,
           "low": 62.1,
           "close": 65.2,
-          "volume": 193725
-        },
-        {
-          "date": "2026-11-19",
-          "open": 64.7,
-          "high": 65.3,
-          "low": 58.7,
-          "close": 58.7,
-          "volume": 121061,
+          "volume": 193725,
           "isAth": false
         }
       ]
@@ -1050,21 +1878,21 @@
       "statusLabel": "前期入選監控 (🛡️ 守穩基準價之上)",
       "industry": "鋼鐵工業",
       "theme": "鋼鐵工業強勢股｜最新單月營收年增 -7.5%",
-      "openPrice": 73.4,
-      "highPrice": 74.8,
-      "lowPrice": 69.5,
-      "price": 69.5,
-      "prevClose": 73.4,
-      "change": -3.9,
-      "changePercent": -5.31,
-      "volume": 2530,
-      "prevVolume": 2925,
+      "openPrice": 75.0,
+      "highPrice": 75.8,
+      "lowPrice": 72.1,
+      "price": 73.4,
+      "prevClose": 73.9,
+      "change": -0.5,
+      "changePercent": -0.68,
+      "volume": 2925,
+      "prevVolume": 4623,
       "turnoverRate": 2.45,
       "turnoverRank": 25,
       "marketTurnoverRank": "週轉率 2.45%",
       "isAth": false,
       "athPrice": 80.5,
-      "athNote": "2026-11-19 收盤 69.5 元（昨收 73.4 元），歷史最高收盤 80.5 元",
+      "athNote": "2026-11-18 收盤 73.4 元（昨收 73.9 元），歷史最高收盤 80.5 元",
       "sepRevYoY": -12.98,
       "scores": {
         "momentum": 78,
@@ -1073,11 +1901,11 @@
         "volume": 90,
         "fundamental": 92
       },
-      "themeDesc": "佳大（2033）為歷史選股監控標的，2026-11-19 最新收盤價 69.5 元（單日 -3.90 元 / -5.31%），當日成交量 2,530 張（前日 2,925 張）。",
+      "themeDesc": "佳大（2033）為歷史選股監控標的，2026-11-18 最新收盤價 73.4 元（單日 -0.50 元 / -0.68%），當日成交量 2,925 張（前日 4,623 張）。",
       "catalystPoints": [
-        "2026-11-19 開盤 73.4、最高 74.8、最低 69.5、收盤 69.5 元（-5.31%）。",
-        "當日成交量 2,530 張、前日成交量 2,925 張，週轉率 2.45%。",
-        "自入選基準價 67.5 元以來，累積漲跌幅為 +2.96%。"
+        "2026-11-18 開盤 75.0、最高 75.8、最低 72.1、收盤 73.4 元（-0.68%）。",
+        "當日成交量 2,925 張、前日成交量 4,623 張，週轉率 2.45%。",
+        "自入選基準價 67.5 元以來，累積漲跌幅為 +8.74%。"
       ],
       "links": {
         "goodinfo": "https://goodinfo.tw/tw/ShowK_Chart.asp?STOCK_ID=2033&CHT_CAT=DATE",
@@ -1086,6 +1914,14 @@
         "tpex": "https://pchome.megatime.com.tw/stock/sid2033.html"
       },
       "history": [
+        {
+          "date": "2026-10-21",
+          "open": 67.2,
+          "high": 71.5,
+          "low": 64.2,
+          "close": 65.3,
+          "volume": 6310
+        },
         {
           "date": "2026-10-22",
           "open": 64.2,
@@ -1236,15 +2072,7 @@
           "high": 75.8,
           "low": 72.1,
           "close": 73.4,
-          "volume": 2925
-        },
-        {
-          "date": "2026-11-19",
-          "open": 73.4,
-          "high": 74.8,
-          "low": 69.5,
-          "close": 69.5,
-          "volume": 2530,
+          "volume": 2925,
           "isAth": false
         }
       ]
@@ -1257,21 +2085,21 @@
       "statusLabel": "前期入選監控 (🚀 續創歷史新高)",
       "industry": "AI / 先進製程供應鏈",
       "theme": "奈科潔淨科技 AI 水冷板高潔淨清洗",
-      "openPrice": 171.5,
-      "highPrice": 172.5,
-      "lowPrice": 171.0,
-      "price": 172.5,
-      "prevClose": 171.5,
-      "change": 1.0,
-      "changePercent": 0.58,
-      "volume": 8613,
-      "prevVolume": 8907,
+      "openPrice": 170.0,
+      "highPrice": 171.5,
+      "lowPrice": 170.0,
+      "price": 171.5,
+      "prevClose": 170.0,
+      "change": 1.5,
+      "changePercent": 0.88,
+      "volume": 8907,
+      "prevVolume": 9541,
       "turnoverRate": 0.0,
       "turnoverRank": 25,
       "marketTurnoverRank": "週轉率 0.0%",
       "isAth": true,
-      "athPrice": 172.5,
-      "athNote": "2026-11-19 收盤 172.5 元（昨收 171.5 元），歷史最高收盤 172.5 元",
+      "athPrice": 171.5,
+      "athNote": "2026-11-18 收盤 171.5 元（昨收 170.0 元），歷史最高收盤 171.5 元",
       "sepRevYoY": 143.5,
       "scores": {
         "momentum": 96,
@@ -1280,11 +2108,11 @@
         "volume": 90,
         "fundamental": 92
       },
-      "themeDesc": "天品（6199）為歷史選股監控標的，2026-11-19 最新收盤價 172.5 元（單日 +1.00 元 / +0.58%），當日成交量 8,613 張（前日 8,907 張）。",
+      "themeDesc": "天品（6199）為歷史選股監控標的，2026-11-18 最新收盤價 171.5 元（單日 +1.50 元 / +0.88%），當日成交量 8,907 張（前日 9,541 張）。",
       "catalystPoints": [
-        "2026-11-19 開盤 171.5、最高 172.5、最低 171.0、收盤 172.5 元（+0.58%）。",
-        "當日成交量 8,613 張、前日成交量 8,907 張，週轉率 0.0%。",
-        "自入選基準價 153.0 元以來，累積漲跌幅為 +12.75%。"
+        "2026-11-18 開盤 170.0、最高 171.5、最低 170.0、收盤 171.5 元（+0.88%）。",
+        "當日成交量 8,907 張、前日成交量 9,541 張，週轉率 0.0%。",
+        "自入選基準價 153.0 元以來，累積漲跌幅為 +12.09%。"
       ],
       "links": {
         "goodinfo": "https://goodinfo.tw/tw/ShowK_Chart.asp?STOCK_ID=6199&CHT_CAT=DATE",
@@ -1293,6 +2121,14 @@
         "tpex": "https://pchome.megatime.com.tw/stock/sid6199.html"
       },
       "history": [
+        {
+          "date": "2026-10-21",
+          "open": 148.0,
+          "high": 148.5,
+          "low": 147.0,
+          "close": 148.0,
+          "volume": 5497
+        },
         {
           "date": "2026-10-22",
           "open": 148.5,
@@ -1443,15 +2279,7 @@
           "high": 171.5,
           "low": 170.0,
           "close": 171.5,
-          "volume": 8907
-        },
-        {
-          "date": "2026-11-19",
-          "open": 171.5,
-          "high": 172.5,
-          "low": 171.0,
-          "close": 172.5,
-          "volume": 8613,
+          "volume": 8907,
           "isAth": true
         }
       ]
@@ -1464,21 +2292,21 @@
       "statusLabel": "前期入選監控 (⚠️ 跌破基準價監控中)",
       "industry": "電機機械",
       "theme": "AI PCB 鑽孔機長單至2027＋先進封裝設備",
-      "openPrice": 43.05,
-      "highPrice": 43.55,
-      "lowPrice": 39.35,
-      "price": 39.35,
-      "prevClose": 43.7,
-      "change": -4.35,
-      "changePercent": -9.95,
-      "volume": 8249,
-      "prevVolume": 18122,
+      "openPrice": 47.75,
+      "highPrice": 47.75,
+      "lowPrice": 41.9,
+      "price": 43.7,
+      "prevClose": 46.55,
+      "change": -2.85,
+      "changePercent": -6.12,
+      "volume": 18122,
+      "prevVolume": 13560,
       "turnoverRate": 7.15,
       "turnoverRank": 25,
       "marketTurnoverRank": "週轉率 7.15%",
       "isAth": false,
       "athPrice": 60.3,
-      "athNote": "2026-11-19 收盤 39.35 元（昨收 43.7 元），歷史最高收盤 60.3 元",
+      "athNote": "2026-11-18 收盤 43.7 元（昨收 46.55 元），歷史最高收盤 60.3 元",
       "sepRevYoY": -12.06,
       "scores": {
         "momentum": 78,
@@ -1487,11 +2315,11 @@
         "volume": 90,
         "fundamental": 92
       },
-      "themeDesc": "東台（4526）為歷史選股監控標的，2026-11-19 最新收盤價 39.35 元（單日 -4.35 元 / -9.95%），當日成交量 8,249 張（前日 18,122 張）。",
+      "themeDesc": "東台（4526）為歷史選股監控標的，2026-11-18 最新收盤價 43.7 元（單日 -2.85 元 / -6.12%），當日成交量 18,122 張（前日 13,560 張）。",
       "catalystPoints": [
-        "2026-11-19 開盤 43.05、最高 43.55、最低 39.35、收盤 39.35 元（-9.95%）。",
-        "當日成交量 8,249 張、前日成交量 18,122 張，週轉率 7.15%。",
-        "自入選基準價 45.15 元以來，累積漲跌幅為 -12.85%。"
+        "2026-11-18 開盤 47.75、最高 47.75、最低 41.9、收盤 43.7 元（-6.12%）。",
+        "當日成交量 18,122 張、前日成交量 13,560 張，週轉率 7.15%。",
+        "自入選基準價 45.15 元以來，累積漲跌幅為 -3.21%。"
       ],
       "links": {
         "goodinfo": "https://goodinfo.tw/tw/ShowK_Chart.asp?STOCK_ID=4526&CHT_CAT=DATE",
@@ -1500,6 +2328,14 @@
         "tpex": "https://pchome.megatime.com.tw/stock/sid4526.html"
       },
       "history": [
+        {
+          "date": "2026-10-21",
+          "open": 35.9,
+          "high": 38.05,
+          "low": 35.75,
+          "close": 38.05,
+          "volume": 10791
+        },
         {
           "date": "2026-10-22",
           "open": 39.25,
@@ -1650,15 +2486,7 @@
           "high": 47.75,
           "low": 41.9,
           "close": 43.7,
-          "volume": 18122
-        },
-        {
-          "date": "2026-11-19",
-          "open": 43.05,
-          "high": 43.55,
-          "low": 39.35,
-          "close": 39.35,
-          "volume": 8249,
+          "volume": 18122,
           "isAth": false
         }
       ]
@@ -1671,21 +2499,21 @@
       "statusLabel": "前期入選監控 (⚠️ 跌破基準價監控中)",
       "industry": "AI / 先進製程供應鏈",
       "theme": "AI 水冷散熱零組件＋自結9月EPS 0.6元",
-      "openPrice": 82.0,
-      "highPrice": 82.2,
-      "lowPrice": 73.8,
-      "price": 73.8,
-      "prevClose": 82.0,
-      "change": -8.2,
-      "changePercent": -10.0,
-      "volume": 4399,
-      "prevVolume": 8112,
+      "openPrice": 87.8,
+      "highPrice": 88.2,
+      "lowPrice": 79.2,
+      "price": 82.0,
+      "prevClose": 84.5,
+      "change": -2.5,
+      "changePercent": -2.96,
+      "volume": 8112,
+      "prevVolume": 8255,
       "turnoverRate": 0.0,
       "turnoverRank": 25,
       "marketTurnoverRank": "週轉率 0.0%",
       "isAth": false,
       "athPrice": 104.5,
-      "athNote": "2026-11-19 收盤 73.8 元（昨收 82.0 元），歷史最高收盤 104.5 元",
+      "athNote": "2026-11-18 收盤 82.0 元（昨收 84.5 元），歷史最高收盤 104.5 元",
       "sepRevYoY": 133.52,
       "scores": {
         "momentum": 78,
@@ -1694,11 +2522,11 @@
         "volume": 90,
         "fundamental": 92
       },
-      "themeDesc": "濱川（1569）為歷史選股監控標的，2026-11-19 最新收盤價 73.8 元（單日 -8.20 元 / -10.00%），當日成交量 4,399 張（前日 8,112 張）。",
+      "themeDesc": "濱川（1569）為歷史選股監控標的，2026-11-18 最新收盤價 82.0 元（單日 -2.50 元 / -2.96%），當日成交量 8,112 張（前日 8,255 張）。",
       "catalystPoints": [
-        "2026-11-19 開盤 82.0、最高 82.2、最低 73.8、收盤 73.8 元（-10.00%）。",
-        "當日成交量 4,399 張、前日成交量 8,112 張，週轉率 0.0%。",
-        "自入選基準價 94.8 元以來，累積漲跌幅為 -22.15%。"
+        "2026-11-18 開盤 87.8、最高 88.2、最低 79.2、收盤 82.0 元（-2.96%）。",
+        "當日成交量 8,112 張、前日成交量 8,255 張，週轉率 0.0%。",
+        "自入選基準價 94.8 元以來，累積漲跌幅為 -13.50%。"
       ],
       "links": {
         "goodinfo": "https://goodinfo.tw/tw/ShowK_Chart.asp?STOCK_ID=1569&CHT_CAT=DATE",
@@ -1707,6 +2535,14 @@
         "tpex": "https://pchome.megatime.com.tw/stock/sid1569.html"
       },
       "history": [
+        {
+          "date": "2026-10-21",
+          "open": 82.1,
+          "high": 87.6,
+          "low": 81.2,
+          "close": 87.6,
+          "volume": 8543
+        },
         {
           "date": "2026-10-22",
           "open": 90.4,
@@ -1857,15 +2693,7 @@
           "high": 88.2,
           "low": 79.2,
           "close": 82.0,
-          "volume": 8112
-        },
-        {
-          "date": "2026-11-19",
-          "open": 82.0,
-          "high": 82.2,
-          "low": 73.8,
-          "close": 73.8,
-          "volume": 4399,
+          "volume": 8112,
           "isAth": false
         }
       ]
@@ -1878,21 +2706,21 @@
       "statusLabel": "前期入選監控 (⚠️ 跌破基準價監控中)",
       "industry": "AI / 先進製程供應鏈",
       "theme": "CCL/PCB 自動化設備＋自結9月EPS 1.47元",
-      "openPrice": 165.0,
-      "highPrice": 165.0,
-      "lowPrice": 147.5,
-      "price": 147.5,
-      "prevClose": 163.5,
-      "change": -16.0,
-      "changePercent": -9.79,
-      "volume": 2009,
-      "prevVolume": 3758,
+      "openPrice": 173.0,
+      "highPrice": 173.0,
+      "lowPrice": 155.0,
+      "price": 163.5,
+      "prevClose": 166.0,
+      "change": -2.5,
+      "changePercent": -1.51,
+      "volume": 3758,
+      "prevVolume": 3238,
       "turnoverRate": 0.0,
       "turnoverRank": 25,
       "marketTurnoverRank": "週轉率 0.0%",
       "isAth": false,
       "athPrice": 263.5,
-      "athNote": "2026-11-19 收盤 147.5 元（昨收 163.5 元），歷史最高收盤 263.5 元",
+      "athNote": "2026-11-18 收盤 163.5 元（昨收 166.0 元），歷史最高收盤 263.5 元",
       "sepRevYoY": 212.68,
       "scores": {
         "momentum": 78,
@@ -1901,11 +2729,11 @@
         "volume": 90,
         "fundamental": 92
       },
-      "themeDesc": "陽程（3498）為歷史選股監控標的，2026-11-19 最新收盤價 147.5 元（單日 -16.00 元 / -9.79%），當日成交量 2,009 張（前日 3,758 張）。",
+      "themeDesc": "陽程（3498）為歷史選股監控標的，2026-11-18 最新收盤價 163.5 元（單日 -2.50 元 / -1.51%），當日成交量 3,758 張（前日 3,238 張）。",
       "catalystPoints": [
-        "2026-11-19 開盤 165.0、最高 165.0、最低 147.5、收盤 147.5 元（-9.79%）。",
-        "當日成交量 2,009 張、前日成交量 3,758 張，週轉率 0.0%。",
-        "自入選基準價 252.0 元以來，累積漲跌幅為 -41.47%。"
+        "2026-11-18 開盤 173.0、最高 173.0、最低 155.0、收盤 163.5 元（-1.51%）。",
+        "當日成交量 3,758 張、前日成交量 3,238 張，週轉率 0.0%。",
+        "自入選基準價 252.0 元以來，累積漲跌幅為 -35.12%。"
       ],
       "links": {
         "goodinfo": "https://goodinfo.tw/tw/ShowK_Chart.asp?STOCK_ID=3498&CHT_CAT=DATE",
@@ -1914,6 +2742,14 @@
         "tpex": "https://pchome.megatime.com.tw/stock/sid3498.html"
       },
       "history": [
+        {
+          "date": "2026-10-21",
+          "open": 248.0,
+          "high": 256.5,
+          "low": 241.0,
+          "close": 244.0,
+          "volume": 4360
+        },
         {
           "date": "2026-10-22",
           "open": 248.0,
@@ -2064,15 +2900,7 @@
           "high": 173.0,
           "low": 155.0,
           "close": 163.5,
-          "volume": 3758
-        },
-        {
-          "date": "2026-11-19",
-          "open": 165.0,
-          "high": 165.0,
-          "low": 147.5,
-          "close": 147.5,
-          "volume": 2009,
+          "volume": 3758,
           "isAth": false
         }
       ]
@@ -2084,420 +2912,420 @@
       "id": "4977",
       "name": "眾達-KY",
       "market": "上市",
-      "close": "177.50 (▼-9.90%)",
-      "prev": "197.00",
+      "close": "197.00 (▲+9.75%)",
+      "prev": "179.50",
       "turnover": "34.43%",
-      "vol": "31,331｜31,002",
+      "vol": "31,331｜26,102",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 177.5 元未突破歷史最高收盤價 (270.5 元)"
+      "reason": "❌ 淘汰：收盤 197.0 元未突破歷史最高收盤價 (270.5 元)"
     },
     {
       "rank": "#2 (30.5%)",
       "id": "2468",
       "name": "華經",
       "market": "上市",
-      "close": "62.90 (▼-4.98%)",
-      "prev": "66.20",
+      "close": "66.20 (▼-9.93%)",
+      "prev": "73.50",
       "turnover": "30.50%",
-      "vol": "21,335｜21,240",
+      "vol": "21,335｜17,685",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 62.9 元未突破歷史最高收盤價 (81.6 元)"
+      "reason": "❌ 淘汰：收盤 66.2 元未突破歷史最高收盤價 (81.6 元)"
     },
     {
       "rank": "#3 (23.91%)",
       "id": "4916",
       "name": "事欣科",
       "market": "上市",
-      "close": "99.90 (▼-10.00%)",
-      "prev": "111.00",
+      "close": "111.00 (▲+9.90%)",
+      "prev": "101.00",
       "turnover": "23.91%",
-      "vol": "29,662｜29,525",
+      "vol": "29,662｜18,611",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 99.9 元未突破歷史最高收盤價 (124.5 元)"
+      "reason": "❌ 淘汰：收盤 111.0 元未突破歷史最高收盤價 (124.5 元)"
     },
     {
       "rank": "#4 (21.92%)",
       "id": "2465",
       "name": "麗臺",
       "market": "上市",
-      "close": "122.50 (▼-9.93%)",
-      "prev": "136.00",
+      "close": "136.00 (▼-6.85%)",
+      "prev": "146.00",
       "turnover": "21.92%",
-      "vol": "20,588｜20,491",
+      "vol": "20,588｜30,760",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 122.5 元未突破歷史最高收盤價 (164.0 元)"
+      "reason": "❌ 淘汰：收盤 136.0 元未突破歷史最高收盤價 (164.0 元)"
     },
     {
       "rank": "#5 (15.19%)",
       "id": "2355",
       "name": "敬鵬",
       "market": "上市",
-      "close": "53.30 (▼-9.04%)",
-      "prev": "58.60",
+      "close": "58.60 (▲+3.72%)",
+      "prev": "56.50",
       "turnover": "15.19%",
-      "vol": "60,364｜60,217",
+      "vol": "60,364｜39,507",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 53.3 元未突破歷史最高收盤價 (67.0 元)"
+      "reason": "❌ 淘汰：收盤 58.6 元未突破歷史最高收盤價 (67.0 元)"
     },
     {
       "rank": "#6 (15.08%)",
       "id": "3189",
       "name": "景碩",
       "market": "上市",
-      "close": "522.00 (▼-9.84%)",
-      "prev": "579.00",
+      "close": "579.00 (▲+6.83%)",
+      "prev": "542.00",
       "turnover": "15.08%",
-      "vol": "79,453｜78,651",
+      "vol": "79,453｜13,038",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 522.0 元未突破歷史最高收盤價 (1100.0 元)"
+      "reason": "❌ 淘汰：收盤 579.0 元未突破歷史最高收盤價 (1100.0 元)"
     },
     {
       "rank": "#7 (14.37%)",
       "id": "2413",
       "name": "環科",
       "market": "上市",
-      "close": "48.00 (▼-9.94%)",
-      "prev": "53.30",
+      "close": "53.30 (▲+9.90%)",
+      "prev": "48.50",
       "turnover": "14.37%",
-      "vol": "18,302｜18,248",
+      "vol": "18,302｜10,816",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 48.0 元未突破歷史最高收盤價 (62.5 元)"
+      "reason": "❌ 淘汰：收盤 53.3 元未突破歷史最高收盤價 (62.5 元)"
     },
     {
       "rank": "#8 (13.39%)",
       "id": "3167",
       "name": "大量",
       "market": "上市",
-      "close": "565.00 (▼-9.89%)",
-      "prev": "627.00",
+      "close": "627.00 (▼-6.14%)",
+      "prev": "668.00",
       "turnover": "13.39%",
-      "vol": "11,986｜11,766",
+      "vol": "11,986｜4,680",
       "c1": true,
       "c2": false,
-      "c3": true,
-      "reason": "❌ 淘汰：收盤 565.0 元未突破歷史最高收盤價 (1085.0 元)"
+      "c3": false,
+      "reason": "❌ 淘汰：未創歷史新高 (歷史高點 1085.0 元)，且前日量 4,680 張未達 5,000 張門檻"
     },
     {
       "rank": "#9 (9.83%)",
       "id": "3026",
       "name": "禾伸堂",
       "market": "上市",
-      "close": "360.00 (▼-9.89%)",
-      "prev": "399.50",
+      "close": "399.50 (▼-3.73%)",
+      "prev": "415.00",
       "turnover": "9.83%",
-      "vol": "16,315｜16,131",
+      "vol": "16,315｜11,095",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 360.0 元未突破歷史最高收盤價 (1005.0 元)"
+      "reason": "❌ 淘汰：收盤 399.5 元未突破歷史最高收盤價 (1005.0 元)"
     },
     {
       "rank": "#10 (9.82%)",
       "id": "6672",
       "name": "騰輝電子-KY",
       "market": "上市",
-      "close": "364.50 (▼-10.00%)",
-      "prev": "405.00",
+      "close": "405.00 (▼-2.06%)",
+      "prev": "413.50",
       "turnover": "9.82%",
-      "vol": "8,082｜7,955",
+      "vol": "8,082｜6,147",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 364.5 元未突破歷史最高收盤價 (627.0 元)"
+      "reason": "❌ 淘汰：收盤 405.0 元未突破歷史最高收盤價 (627.0 元)"
     },
     {
       "rank": "#11 (9.27%)",
       "id": "6456",
       "name": "GIS-KY",
       "market": "上市",
-      "close": "75.20 (▼-9.94%)",
-      "prev": "83.50",
+      "close": "83.50 (▼-1.18%)",
+      "prev": "84.50",
       "turnover": "9.27%",
-      "vol": "31,337｜31,209",
+      "vol": "31,337｜26,402",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 75.2 元未突破歷史最高收盤價 (367.0 元)"
+      "reason": "❌ 淘汰：收盤 83.5 元未突破歷史最高收盤價 (367.0 元)"
     },
     {
       "rank": "#12 (9.11%)",
       "id": "6226",
       "name": "光鼎",
       "market": "上市",
-      "close": "26.20 (▼-9.97%)",
-      "prev": "29.10",
+      "close": "29.10 (▲+4.68%)",
+      "prev": "27.80",
       "turnover": "9.11%",
-      "vol": "10,526｜10,494",
+      "vol": "10,526｜3,606",
       "c1": true,
       "c2": false,
-      "c3": true,
-      "reason": "❌ 淘汰：收盤 26.2 元未突破歷史最高收盤價 (48.0 元)"
+      "c3": false,
+      "reason": "❌ 淘汰：未創歷史新高 (歷史高點 48.0 元)，且前日量 3,606 張未達 5,000 張門檻"
     },
     {
       "rank": "#13 (8.92%)",
       "id": "8996",
       "name": "高力",
       "market": "上市",
-      "close": "1025.00 (▼-9.69%)",
-      "prev": "1135.00",
+      "close": "1135.00 (▼-2.99%)",
+      "prev": "1170.00",
       "turnover": "8.92%",
-      "vol": "8,344｜8,233",
+      "vol": "8,344｜3,290",
       "c1": true,
       "c2": false,
-      "c3": true,
-      "reason": "❌ 淘汰：收盤 1025.0 元未突破歷史最高收盤價 (1720.0 元)"
+      "c3": false,
+      "reason": "❌ 淘汰：未創歷史新高 (歷史高點 1720.0 元)，且前日量 3,290 張未達 5,000 張門檻"
     },
     {
       "rank": "#14 (8.7%)",
       "id": "2471",
       "name": "資通",
       "market": "上市",
-      "close": "57.10 (▼-9.94%)",
-      "prev": "63.40",
+      "close": "63.40 (▼-9.94%)",
+      "prev": "70.40",
       "turnover": "8.70%",
-      "vol": "4,112｜4,095",
+      "vol": "4,112｜2,266",
       "c1": true,
       "c2": false,
       "c3": false,
-      "reason": "❌ 淘汰：未創歷史新高 (歷史高點 78.2 元)，且前日量 4,095 張未達 5,000 張門檻"
+      "reason": "❌ 淘汰：未創歷史新高 (歷史高點 78.2 元)，且前日量 2,266 張未達 5,000 張門檻"
     },
     {
       "rank": "#15 (8.21%)",
       "id": "3406",
       "name": "玉晶光",
       "market": "上市",
-      "close": "720.00 (▼-10.00%)",
-      "prev": "800.00",
+      "close": "800.00 (▼-2.44%)",
+      "prev": "820.00",
       "turnover": "8.21%",
-      "vol": "9,716｜9,616",
+      "vol": "9,716｜6,659",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 720.0 元未突破歷史最高收盤價 (1330.0 元)"
+      "reason": "❌ 淘汰：收盤 800.0 元未突破歷史最高收盤價 (1330.0 元)"
     },
     {
       "rank": "#16 (7.57%)",
       "id": "4956",
       "name": "光鋐",
       "market": "上市",
-      "close": "29.50 (▼-9.92%)",
-      "prev": "32.75",
+      "close": "32.75 (▲+9.90%)",
+      "prev": "29.80",
       "turnover": "7.57%",
-      "vol": "7,599｜7,578",
+      "vol": "7,599｜2,366",
       "c1": true,
       "c2": false,
-      "c3": true,
-      "reason": "❌ 淘汰：收盤 29.5 元未突破歷史最高收盤價 (54.7 元)"
+      "c3": false,
+      "reason": "❌ 淘汰：未創歷史新高 (歷史高點 54.7 元)，且前日量 2,366 張未達 5,000 張門檻"
     },
     {
       "rank": "#17 (7.54%)",
       "id": "6213",
       "name": "聯茂",
       "market": "上市",
-      "close": "395.00 (▼-9.92%)",
-      "prev": "438.50",
+      "close": "438.50 (▲+1.50%)",
+      "prev": "432.00",
       "turnover": "7.54%",
-      "vol": "27,418｜27,159",
+      "vol": "27,418｜16,802",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 395.0 元未突破歷史最高收盤價 (856.0 元)"
+      "reason": "❌ 淘汰：收盤 438.5 元未突破歷史最高收盤價 (856.0 元)"
     },
     {
       "rank": "#18 (7.51%)",
       "id": "1416",
       "name": "廣豐",
       "market": "上市",
-      "close": "16.10 (▼-0.31%)",
-      "prev": "16.15",
+      "close": "16.15 (▼-7.98%)",
+      "prev": "17.55",
       "turnover": "7.51%",
-      "vol": "13,916｜13,886",
+      "vol": "13,916｜5,749",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 16.1 元未突破歷史最高收盤價 (29.95 元)"
+      "reason": "❌ 淘汰：收盤 16.15 元未突破歷史最高收盤價 (29.95 元)"
     },
     {
       "rank": "#19 (7.4%)",
       "id": "9933",
       "name": "中鼎",
       "market": "上市",
-      "close": "56.60 (▼-1.57%)",
-      "prev": "57.50",
+      "close": "57.50 (▲+1.59%)",
+      "prev": "56.60",
       "turnover": "7.40%",
-      "vol": "71,173｜71,001",
+      "vol": "71,173｜53,217",
       "c1": true,
-      "c2": false,
+      "c2": true,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 56.6 元未突破歷史最高收盤價 (57.5 元)"
+      "reason": "✅ 嚴格 4 項全過！收盤 57.5 元突破歷史前高 (56.6 元)，前日量 53,217 張、當日量 71,173 張"
     },
     {
       "rank": "#20 (7.37%)",
       "id": "4927",
       "name": "泰鼎-KY",
       "market": "上市",
-      "close": "41.05 (▼-9.98%)",
-      "prev": "45.60",
+      "close": "45.60 (▼-2.04%)",
+      "prev": "46.55",
       "turnover": "7.37%",
-      "vol": "19,521｜19,476",
+      "vol": "19,521｜15,666",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 41.05 元未突破歷史最高收盤價 (137.0 元)"
+      "reason": "❌ 淘汰：收盤 45.6 元未突破歷史最高收盤價 (137.0 元)"
     },
     {
       "rank": "#21 (7.18%)",
       "id": "8039",
       "name": "台虹",
       "market": "上市",
-      "close": "152.50 (▼-9.76%)",
-      "prev": "169.00",
+      "close": "169.00 (▼-3.43%)",
+      "prev": "175.00",
       "turnover": "7.18%",
-      "vol": "18,948｜18,838",
+      "vol": "18,948｜11,517",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 152.5 元未突破歷史最高收盤價 (352.5 元)"
+      "reason": "❌ 淘汰：收盤 169.0 元未突破歷史最高收盤價 (352.5 元)"
     },
     {
       "rank": "#22 (7.15%)",
       "id": "4526",
       "name": "東台",
       "market": "上市",
-      "close": "39.35 (▼-9.95%)",
-      "prev": "43.70",
+      "close": "43.70 (▼-6.12%)",
+      "prev": "46.55",
       "turnover": "7.15%",
-      "vol": "18,223｜18,122",
+      "vol": "18,223｜13,560",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 39.35 元未突破歷史最高收盤價 (60.3 元)"
+      "reason": "❌ 淘汰：收盤 43.7 元未突破歷史最高收盤價 (60.3 元)"
     },
     {
       "rank": "#23 (6.69%)",
       "id": "1802",
       "name": "台玻",
       "market": "上市",
-      "close": "58.70 (▼-9.97%)",
-      "prev": "65.20",
+      "close": "65.20 (▼-5.51%)",
+      "prev": "69.00",
       "turnover": "6.69%",
-      "vol": "194,526｜193,725",
+      "vol": "194,526｜152,877",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 58.7 元未突破歷史最高收盤價 (85.1 元)"
+      "reason": "❌ 淘汰：收盤 65.2 元未突破歷史最高收盤價 (85.1 元)"
     },
     {
       "rank": "#24 (6.68%)",
       "id": "6269",
       "name": "台郡",
       "market": "上市",
-      "close": "61.30 (▼-9.99%)",
-      "prev": "68.10",
+      "close": "68.10 (▲+0.59%)",
+      "prev": "67.70",
       "turnover": "6.68%",
-      "vol": "21,635｜21,563",
+      "vol": "21,635｜21,762",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 61.3 元未突破歷史最高收盤價 (150.0 元)"
+      "reason": "❌ 淘汰：收盤 68.1 元未突破歷史最高收盤價 (150.0 元)"
     },
     {
       "rank": "#25 (6.36%)",
       "id": "6285",
       "name": "啟碁",
       "market": "上市",
-      "close": "191.00 (▼-5.45%)",
-      "prev": "202.00",
+      "close": "202.00 (▲+9.78%)",
+      "prev": "184.00",
       "turnover": "6.36%",
-      "vol": "30,732｜30,517",
+      "vol": "30,732｜10,998",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 191.0 元未突破歷史最高收盤價 (319.0 元)"
+      "reason": "❌ 淘汰：收盤 202.0 元未突破歷史最高收盤價 (319.0 元)"
     },
     {
       "rank": "#26 (6.35%)",
       "id": "3715",
       "name": "定穎投控",
       "market": "上市",
-      "close": "126.00 (▼-10.00%)",
-      "prev": "140.00",
+      "close": "140.00 (▲+9.80%)",
+      "prev": "127.50",
       "turnover": "6.35%",
-      "vol": "18,010｜17,845",
+      "vol": "18,010｜17,033",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 126.0 元未突破歷史最高收盤價 (203.5 元)"
+      "reason": "❌ 淘汰：收盤 140.0 元未突破歷史最高收盤價 (203.5 元)"
     },
     {
       "rank": "#27 (6.34%)",
       "id": "3605",
       "name": "宏致",
       "market": "上市",
-      "close": "92.90 (▼-9.37%)",
-      "prev": "102.50",
+      "close": "102.50 (▼-0.97%)",
+      "prev": "103.50",
       "turnover": "6.34%",
-      "vol": "11,109｜11,067",
+      "vol": "11,109｜7,076",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 92.9 元未突破歷史最高收盤價 (187.0 元)"
+      "reason": "❌ 淘汰：收盤 102.5 元未突破歷史最高收盤價 (187.0 元)"
     },
     {
       "rank": "#28 (6.16%)",
       "id": "8021",
       "name": "尖點",
       "market": "上市",
-      "close": "274.50 (▼-10.00%)",
-      "prev": "305.00",
+      "close": "305.00 (▼-2.71%)",
+      "prev": "313.50",
       "turnover": "6.16%",
-      "vol": "9,067｜8,908",
+      "vol": "9,067｜5,636",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 274.5 元未突破歷史最高收盤價 (581.0 元)"
+      "reason": "❌ 淘汰：收盤 305.0 元未突破歷史最高收盤價 (581.0 元)"
     },
     {
       "rank": "#29 (5.7%)",
       "id": "6689",
       "name": "伊雲谷",
       "market": "上市",
-      "close": "64.40 (▼-8.13%)",
-      "prev": "70.10",
+      "close": "70.10 (▼-5.78%)",
+      "prev": "74.40",
       "turnover": "5.70%",
-      "vol": "3,873｜3,851",
+      "vol": "3,873｜4,400",
       "c1": true,
       "c2": false,
       "c3": false,
-      "reason": "❌ 淘汰：未創歷史新高 (歷史高點 419.0 元)，且前日量 3,851 張未達 5,000 張門檻"
+      "reason": "❌ 淘汰：未創歷史新高 (歷史高點 419.0 元)，且前日量 4,400 張未達 5,000 張門檻"
     },
     {
       "rank": "#30 (5.65%)",
       "id": "6112",
       "name": "邁達特",
       "market": "上市",
-      "close": "43.00 (▼-9.95%)",
-      "prev": "47.75",
+      "close": "47.75 (▼-9.91%)",
+      "prev": "53.00",
       "turnover": "5.65%",
-      "vol": "10,637｜10,579",
+      "vol": "10,637｜14,232",
       "c1": true,
       "c2": false,
       "c3": true,
-      "reason": "❌ 淘汰：收盤 43.0 元未突破歷史最高收盤價 (79.7 元)"
+      "reason": "❌ 淘汰：收盤 47.75 元未突破歷史最高收盤價 (79.7 元)"
     }
   ],
   "historyLogs": [
@@ -2509,11 +3337,11 @@
       "market": "上市",
       "theme": "其他強勢股｜最新單月營收年增 +53.9%",
       "entryPrice": 56.6,
-      "prevPrice": 57.5,
-      "currentPrice": 56.6,
-      "todayChange": -0.9,
-      "todayChangePct": -1.57,
-      "status": "🛡️ 守穩基準價之上",
+      "prevPrice": 56.6,
+      "currentPrice": 57.5,
+      "todayChange": 0.9,
+      "todayChangePct": 1.59,
+      "status": "🚀 續創歷史新高",
       "dailyLog": [
         {
           "day": "前日(基準)",
@@ -2545,10 +3373,10 @@
       "market": "上市",
       "theme": "資訊服務業強勢股｜最新單月營收年增 +20.0%",
       "entryPrice": 74.2,
-      "prevPrice": 66.2,
-      "currentPrice": 62.9,
-      "todayChange": -3.3,
-      "todayChangePct": -4.98,
+      "prevPrice": 73.5,
+      "currentPrice": 66.2,
+      "todayChange": -7.3,
+      "todayChangePct": -9.93,
       "status": "⚠️ 跌破基準價監控中",
       "dailyLog": [
         {
@@ -2591,11 +3419,11 @@
       "market": "上市",
       "theme": "電子零組件業強勢股｜最新單月營收年增 +86.7%",
       "entryPrice": 39.3,
-      "prevPrice": 42.5,
-      "currentPrice": 38.25,
-      "todayChange": -4.25,
-      "todayChangePct": -10.0,
-      "status": "⚠️ 跌破基準價監控中",
+      "prevPrice": 41.45,
+      "currentPrice": 42.5,
+      "todayChange": 1.05,
+      "todayChangePct": 2.53,
+      "status": "🚀 續創歷史新高",
       "dailyLog": [
         {
           "day": "前日(基準)",
@@ -2637,9 +3465,9 @@
       "market": "上市",
       "theme": "資訊服務業強勢股｜最新單月營收年增 +5.3%",
       "entryPrice": 64.7,
-      "prevPrice": 63.4,
-      "currentPrice": 57.1,
-      "todayChange": -6.3,
+      "prevPrice": 70.4,
+      "currentPrice": 63.4,
+      "todayChange": -7.0,
       "todayChangePct": -9.94,
       "status": "⚠️ 跌破基準價監控中",
       "dailyLog": [
@@ -2683,10 +3511,10 @@
       "market": "上市",
       "theme": "玻璃陶瓷強勢股｜最新單月營收年增 +34.1%",
       "entryPrice": 69.8,
-      "prevPrice": 65.2,
-      "currentPrice": 58.7,
-      "todayChange": -6.5,
-      "todayChangePct": -9.97,
+      "prevPrice": 69.0,
+      "currentPrice": 65.2,
+      "todayChange": -3.8,
+      "todayChangePct": -5.51,
       "status": "⚠️ 跌破基準價監控中",
       "dailyLog": [
         {
@@ -2729,10 +3557,10 @@
       "market": "上市",
       "theme": "鋼鐵工業強勢股｜最新單月營收年增 -7.5%",
       "entryPrice": 67.5,
-      "prevPrice": 73.4,
-      "currentPrice": 69.5,
-      "todayChange": -3.9,
-      "todayChangePct": -5.31,
+      "prevPrice": 73.9,
+      "currentPrice": 73.4,
+      "todayChange": -0.5,
+      "todayChangePct": -0.68,
       "status": "🛡️ 守穩基準價之上",
       "dailyLog": [
         {
@@ -2776,9 +3604,9 @@
       "theme": "奈科潔淨科技 AI 水冷板高潔淨清洗",
       "entryPrice": 153.0,
       "day1Price": 158.5,
-      "currentPrice": 172.5,
-      "todayChange": 1.0,
-      "todayChangePct": 0.58,
+      "currentPrice": 171.5,
+      "todayChange": 1.5,
+      "todayChangePct": 0.88,
       "status": "🚀 續創歷史新高",
       "dailyLog": [
         {
@@ -2812,7 +3640,7 @@
           "changePct": 0.58
         }
       ],
-      "prevPrice": 171.5
+      "prevPrice": 170.0
     },
     {
       "id": "hist_4526",
@@ -2823,9 +3651,9 @@
       "theme": "AI PCB 鑽孔機長單至2027＋先進封裝設備",
       "entryPrice": 45.15,
       "day1Price": 52.8,
-      "currentPrice": 39.35,
-      "todayChange": -4.35,
-      "todayChangePct": -9.95,
+      "currentPrice": 43.7,
+      "todayChange": -2.85,
+      "todayChangePct": -6.12,
       "status": "⚠️ 跌破基準價監控中",
       "dailyLog": [
         {
@@ -2859,7 +3687,7 @@
           "changePct": -9.95
         }
       ],
-      "prevPrice": 43.7
+      "prevPrice": 46.55
     },
     {
       "id": "hist_1569",
@@ -2870,9 +3698,9 @@
       "theme": "AI 水冷散熱零組件＋自結9月EPS 0.6元",
       "entryPrice": 94.8,
       "day1Price": 92.3,
-      "currentPrice": 73.8,
-      "todayChange": -8.2,
-      "todayChangePct": -10.0,
+      "currentPrice": 82.0,
+      "todayChange": -2.5,
+      "todayChangePct": -2.96,
       "status": "⚠️ 跌破基準價監控中",
       "dailyLog": [
         {
@@ -2906,7 +3734,7 @@
           "changePct": -10.0
         }
       ],
-      "prevPrice": 82.0
+      "prevPrice": 84.5
     },
     {
       "id": "hist_3498",
@@ -2917,9 +3745,9 @@
       "theme": "CCL/PCB 自動化設備＋自結9月EPS 1.47元",
       "entryPrice": 252.0,
       "day1Price": 256.0,
-      "currentPrice": 147.5,
-      "todayChange": -16.0,
-      "todayChangePct": -9.79,
+      "currentPrice": 163.5,
+      "todayChange": -2.5,
+      "todayChangePct": -1.51,
       "status": "⚠️ 跌破基準價監控中",
       "dailyLog": [
         {
@@ -2953,7 +3781,7 @@
           "changePct": -9.79
         }
       ],
-      "prevPrice": 163.5
+      "prevPrice": 166.0
     }
   ]
 }
